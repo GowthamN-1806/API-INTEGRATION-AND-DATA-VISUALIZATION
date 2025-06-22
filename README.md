@@ -18,6 +18,10 @@
 
 The third visualization was a box plot that provided statistical insights into the spread of total cases, recoveries, and deaths. It helped illustrate the variance and distribution within these key metrics. The fourth chart, a histogram, displayed how case numbers were distributed among states — showing whether cases were concentrated in a few areas or more evenly spread. The fifth and final chart was a line graph showing trends of total confirmed cases across states, offering a continuous visual representation of the data. To enhance readability and aesthetics, I applied consistent formatting throughout the dashboard. I used the "Times New Roman" font, set appropriate font sizes and colors, and centered the main title which read “COVID-19 Dashboard for India”. The subplot titles and annotations were styled to match the overall theme, and the layout spacing was carefully adjusted to prevent visual clutter. I also removed unnecessary legends to maintain simplicity and allow users to focus on the key visual elements.
 
+#OUTPUT
+
+https://github.com/GowthamN-1806/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-3166076838
+
 In conclusion, Task 1 enabled me to apply core programming and data visualization skills to a real-world problem. I gained practical experience in working with web APIs, handling and cleaning JSON data, transforming it using pandas, and representing it interactively with Plotly. This project not only strengthened my technical foundation but also helped me understand how to build data-driven applications that provide clear, accessible insights to end-users. By the end of the task, I was able to deliver a polished, informative, and interactive dashboard that showcased the regional impact of COVID-19 in India in a visually compelling manner, fulfilling the task requirements effectively.
 
 
